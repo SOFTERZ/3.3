@@ -1,0 +1,15 @@
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\bin\Debug\sumN.exe.config
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\bin\Debug\sumN.exe
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\bin\Debug\sumN.pdb
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN.csprojAssemblyReference.cache
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\MainWindow.g.cs
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\App.g.cs
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN_MarkupCompile.cache
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN_MarkupCompile.lref
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\MainWindow.baml
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN.g.resources
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN.Properties.Resources.resources
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN.csproj.GenerateResource.cache
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN.csproj.CoreCompileInputs.cache
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN.exe
+C:\Users\SOFTERZZ\source\repos\sumN\sumN\obj\Debug\sumN.pdb
